@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605399507642",
+    "project_id": "newdemo-92859",
+    "storage_bucket": "newdemo-92859.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605399507642:android:371c99bf27cec6ec321883",
+        "android_client_info": {
+          "package_name": "com.pushwoosh.newdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEYytb6L2mNpMkNq16ygG-M2q3EePU3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605399507642:android:b2b0c62817b4c876321883",
+        "android_client_info": {
+          "package_name": "com.pushwoosh.newdemounity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEYytb6L2mNpMkNq16ygG-M2q3EePU3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

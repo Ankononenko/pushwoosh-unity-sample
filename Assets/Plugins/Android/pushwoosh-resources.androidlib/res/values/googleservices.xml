@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/project_id,@string/google_api_key,@string/default_web_client_id,@string/google_app_id" xmlns:tools="http://schemas.android.com/tools">
+ <string name="gcm_defaultSenderId" translatable="false">605399507642</string>
+<string name="default_web_client_id" translatable="false"></string>
+<string name="google_app_id" translatable="false">1:605399507642:android:371c99bf27cec6ec321883</string>
+<string name="project_id" translatable="false">newdemo-92859</string>
+<string name="google_api_key" translatable="false">AIzaSyBpEYytb6L2mNpMkNq16ygG-M2q3EePU3E</string>
+</resources>
