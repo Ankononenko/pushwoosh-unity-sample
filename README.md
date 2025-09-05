@@ -1,7 +1,5 @@
-# pushwoosh-unity-sample
+# Pushwoosh Unity Sample:
 
-Pushwoosh Unity Sample:
-
-![screenshot](Screenshots/sample_ui.png)
+<img src="Screenshots/sample_ui.png" width="300" />
 
 The quick-start quide is available here: TODO: link to the quick-start guide
